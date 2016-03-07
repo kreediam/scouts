@@ -13,7 +13,15 @@
  - Parents: Augustine Washington, Mary Washington
  - Kids: Martha Custis, John Custis (George’s wife Martha had them before they got married.)
  - Siblings:
-  - Lawrence Washington, John Washington, Samuel Washington, Betty Washington, Charles Washington, Augustine Washington Jr, Jane Washington, Butler Washington, Mildred Washington
+  - Lawrence Washington
+  - John Washington
+  - Samuel Washington
+  - Betty Washington
+  - Charles Washington
+  - Augustine Washington Jr
+  - Jane Washington
+  - Butler Washington
+  - Mildred Washington
  - Birthplace: Westmoreland County, VA
  - Death: December 14, 1799, Mount Vernon, VA
  - What would his age be if he were still alive: 284?
