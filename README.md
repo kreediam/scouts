@@ -1,3 +1,0 @@
-# scouts
-[Facts]
-[Quiz]
